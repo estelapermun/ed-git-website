@@ -1,6 +1,16 @@
 body {
-    background-color: #f0f4f8;
+    background-color: #3a3d3f;
     font-family: Arial, sans-serif;
-    text-align: center;
+    color: #ffffff;
     margin: 50px;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+div {
+    background-color: blue;
+    color: white;
 }
